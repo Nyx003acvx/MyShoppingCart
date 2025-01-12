@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "Image": "images\\S.png",
+      "Name": "Model S",
+      "Description": "Experience unparalleled performance and luxury in the Model S.",
+      "Price": "$88,490"
+    },
+    {
+      "id": 2,
+      "Image": "images\\3.png",
+      "Name": "Model 3",
+      "Description": "The electric car for everyone.",
+      "Price": "$40,240"
+    },
+    {
+      "id": 3,
+      "Image": "images\\X.png",
+      "Name": "Model X",
+      "Description": "The safest, quickest SUV ever.",
+      "Price": "$104,990"
+    },
+    {
+      "id": 4,
+      "Image": "images\\Y.png",
+      "Name": "Model Y",
+      "Description": "Compact SUV with long range and impressive performance.",
+      "Price": "$47,740"
+    },
+    {
+      "id": 5,
+      "Image": "images\\truck.png",
+      "Name": "Cybertruck",
+      "Description": "Nearly indestructible truck with unparalleled capability.",
+      "Price": "$39,900"
+    }
+  ]
+  
